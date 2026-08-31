@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,36 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ceu
+    uniqueID: 2387666391
+    locked: 0
+  - name: Luz1
+    uniqueID: 3700279853
+    locked: 0
+  - name: Luz2
+    uniqueID: 1891462943
+    locked: 0
+  - name: Luz3
+    uniqueID: 1802864119
+    locked: 0
+  - name: FundoArvores
+    uniqueID: 1226175723
+    locked: 0
+  - name: FrenteArvores
+    uniqueID: 2392251701
+    locked: 0
+  - name: Copa
+    uniqueID: 2086734701
+    locked: 0
+  - name: Chao2
+    uniqueID: 772012795
+    locked: 0
+  - name: Chao1
+    uniqueID: 3348101887
+    locked: 0
+  - name: Jogador
+    uniqueID: 1933241511
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
